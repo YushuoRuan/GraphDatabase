@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\src",
+    "\\src\\cli",
+    "\\src\\db"
+  ],
+  "SelectedNode": "\\src\\db\\component.c",
+  "PreviewInSolutionExplorer": false
+}
